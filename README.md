@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eranoitulover
 - 👀 I’m interested in shiny thing
-- 🌱 I’m currently learning .Net, React, and Flutter
+- 🌱 I’m currently learning .Net, React, Rust and Flutter
 - 💞️ I’m looking to collaborate on a tools/framework project
 
 <!---
